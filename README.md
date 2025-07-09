@@ -7,13 +7,14 @@ Este projeto é um **dashboard interativo** desenvolvido com [Streamlit](https:/
 - Python 3.9.12  
 - Streamlit  
 - Pandas  
-- Plotly Express  
+- Plotly Express
+- Numpy
+- datetime  
 
 ## 📁 Estrutura do Projeto
 
 📦 projeto-dashboard
 ┣ 📄 dashboard.py
-┣ 📄 cursos.csv
 ┗ 📄 README.md
 
 
