@@ -33,9 +33,9 @@ git clone https://github.com/seu-usuario/projeto-dashboard.git
 cd projeto-dashboard
 ```
 
-## 📷 Imagem do Dashboard (opcional)
+## 📷 Imagem do Dashboard 
 
-Adicione aqui uma captura de tela do seu dashboard se desejar.
+Captura da tela do meu dashboard.
 Exemplo:
 
 ![image](https://github.com/user-attachments/assets/4de7c12d-8eef-410d-b735-4af3dfea2b87)
