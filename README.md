@@ -1,6 +1,6 @@
 # 📊 Dashboard de Cursos com Streamlit
 
-Este projeto é um **dashboard interativo** desenvolvido com [Streamlit](https://streamlit.io/) e [Plotly](https://plotly.com/python/), que apresenta visualizações de dados sobre cursos com base em um arquivo CSV. O objetivo é explorar e visualizar as informações de forma prática e atrativa.
+Este projeto é um **dashboard interativo** desenvolvido com [Streamlit](https://streamlit.io/) e [Plotly](https://plotly.com/python/), que apresenta visualizações de dados sobre cursos da Alura. O objetivo é explorar e visualizar as informações de forma prática e atrativa.
 
 ## 🔧 Tecnologias Utilizadas
 
